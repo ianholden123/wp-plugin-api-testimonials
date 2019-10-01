@@ -1,4 +1,4 @@
-# WordPress Plugin - API Testimonials8
+# WordPress Plugin - API Testimonials
 A simple WordPress plugin to expose testimonial data to the WordPress API
 
 ## What does it do?
